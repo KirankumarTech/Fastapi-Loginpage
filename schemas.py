@@ -13,7 +13,7 @@ class SignUpModel(BaseModel):
         json_schema_extra = {
             "example": {
                 "username": "johndoe",
-                "email": "johndoe@gmail.com",
+                "email": "john@gmail.com",
                 "password": "password"
             }
         }
